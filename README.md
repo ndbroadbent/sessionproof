@@ -1,4 +1,4 @@
-# sessionproof *(Experimental / WIP)*
+# Abstract
 
 *sessionproof* will make it easy to generate [non-interactive zero-knowledge proofs](https://en.wikipedia.org/wiki/Non-interactive_zero-knowledge_proof) for TLS sessions.
 

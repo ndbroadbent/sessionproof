@@ -153,7 +153,7 @@ This verifies that the server produced the given response for a specific request
 
 An Nginx or Apache plugin could be created that automatically adds these digital signatures.
 A server administrator could install this plugin in a few minutes, so this would be
-much easier that implementing something like OAuth 2.
+much easier than implementing a protocol like OAuth 2.
 
 
 ### 2. Hosted Proxy Service

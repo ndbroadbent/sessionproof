@@ -193,9 +193,3 @@ and online banking websites would not need to make any changes.
 * [Signing HTTP Messages (IETF Specification)](https://tools.ietf.org/html/draft-cavage-http-signatures-09)
 * [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)
 * [Non-repudiation](https://en.wikipedia.org/wiki/Non-repudiation)
-
-
--------------------------
-
-*This will take a lot of time and effort to build. We welcome any donations if you think this could be useful:*
-<br/>`15s5gq1LBcaMWs9Zgvi6LLCsxFhtKdYF5B`

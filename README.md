@@ -34,6 +34,7 @@ information:
 * Their SSL certificate was valid and signed by a known root authority
 * You successfully signed in
 * The server sent you an HTML page that included your full name, your phone number, and your bank account number.
+* The proof includes a unique token provided by the third-party verifier, to ensure that it a proof cannot be re-used.
 
 It's important to note that this is the **only** information the proof contains. It doesn't reveal
 anything about your username or password.

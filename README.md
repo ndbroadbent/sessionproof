@@ -5,7 +5,7 @@
 You can use this to prove that you are the owner of any online account (including online banking),
 without revealing your username or password.
 
-#### Disclaimer: These proofs require a server to send [HTTP Signatures](https://tools.ietf.org/html/draft-cavage-http-signatures-09), which are a new IETF specification.
+#### Note: These proofs will require servers to send [HTTP Signatures](https://tools.ietf.org/html/draft-cavage-http-signatures-09), which are a new IETF specification.
 
 (View the [Non-Repudation Solutions](#non-repudation-solutions) section for some more ideas.)
 
